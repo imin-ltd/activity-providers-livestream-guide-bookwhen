@@ -29,5 +29,5 @@ There is plenty of highly polished recorded content out there. But understand th
 
 This is very important: can people see your entire body? When you go down to do a press-up, do people lose sight of you? People need to be able to see what you’re doing at all times. So make sure your camera is pointing in the right place and you are far enough away to incorporate all of your movements. For more detail about this, see:
 
-{% page-ref page="../how-to-set-up-for-living-streaming/your-tech-set-up/equipment.md" %}
+{% page-ref page="../how-to-set-up-for-live-streaming/your-tech-set-up/equipment.md" %}
 

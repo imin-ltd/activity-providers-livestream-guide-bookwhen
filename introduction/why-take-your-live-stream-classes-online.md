@@ -27,7 +27,7 @@ Live streamed classes also provide a sense of routine for them: it is a reason f
 
 ### 👂 You'll give _and get_ feedback
 
-What's more, depending on your choice of [live stream solution](../how-to-set-up-for-living-streaming/your-tech-set-up/choosing-a-live-streaming-solution/), this is a two-way relationship. People will watch you, but you can interact with them as they workout in your class. You can still provide advice, tips and the words of encouragement that people still crave. You motivate them.
+What's more, depending on your choice of [live stream solution](../how-to-set-up-for-live-streaming/your-tech-set-up/choosing-a-live-streaming-solution/), this is a two-way relationship. People will watch you, but you can interact with them as they workout in your class. You can still provide advice, tips and the words of encouragement that people still crave. You motivate them.
 
 And finally, let's not forget, this is a challenging time for you as an instructor. Many changes and a need to adapt. You will get immediate feedback from the people in your live stream class - we guarantee you that the huge round of applause from oodles of houses at the end of a workout will inspire you into your next class. _They_ motivate _you._
 

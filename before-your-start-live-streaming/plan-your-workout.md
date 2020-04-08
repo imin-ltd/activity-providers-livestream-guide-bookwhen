@@ -34,5 +34,5 @@ The whole situation feels different, but it's also incredibly similar - people s
 
 ### 🔐 Don't forget to provide access to your class
 
-Be sure to provide people with the link \(and password if necessary\) to your online class. And don't leave it too late before doing so - you don't want people rushing to get into the class and turning up flustered! See the [instructions to give to participants](../how-to-set-up-for-living-streaming/instructions-to-give-to-participants.md) section above.
+Be sure to provide people with the link \(and password if necessary\) to your online class. And don't leave it too late before doing so - you don't want people rushing to get into the class and turning up flustered! See the [instructions to give to participants](../how-to-set-up-for-live-streaming/instructions-to-give-to-participants.md) section above.
 

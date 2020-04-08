@@ -20,5 +20,5 @@ Can you share you class with those who attended? They might want to do it at the
 
 Shout about your class on social media. Ask those who attended to shout about it, too. Never has there been a more important time for a digital presence. And don't forget to continue listing your classes on an open data activity finder - that way thousands of people can find them across a number of different apps and websites:
 
-{% page-ref page="../how-to-set-up-for-living-streaming/getting-your-class-out-there/increasing-the-visibility-of-your-live-streamed-classes.md" %}
+{% page-ref page="../how-to-set-up-for-live-streaming/getting-your-class-out-there/increasing-the-visibility-of-your-live-streamed-classes.md" %}
 
